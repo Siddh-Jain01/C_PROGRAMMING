@@ -1,10 +1,11 @@
 #include<stdio.h>
+int main(){
 struct pokemon{
     int hp;
     int speed ;
     int attack;
 };
-int main(){
+
     struct pokemon pikachu ;
     pikachu.hp=34;
     pikachu.speed = 700;
