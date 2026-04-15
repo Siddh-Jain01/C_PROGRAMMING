@@ -5,12 +5,12 @@ int main(){
     int sum2=0;
     //int totalSum;
    
-    printf("enter the element in frist array\n");
+    printf("Enter the element in frist array\n");
     for (int i=0;i<5;i++){
         scanf("%d", a[i]);
     }
     int b[5];
-     printf("enter the element in second array\n");
+     printf("Enter the element in second array\n");
     for (int i=0;i<5;i++){
         scanf("%d", b[i]);
     }

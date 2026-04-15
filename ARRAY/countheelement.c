@@ -5,7 +5,7 @@ int main(){
     int y;
     int  count = 0;
     for(int i=0;i<=6;i++){
-        if(arr[i]>x){
+        if(arr[i]<x){
             //y=arr[i];
             count=count+1;
         }
